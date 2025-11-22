@@ -202,6 +202,10 @@ function parseFlashcards() {
     loadProgress();
     
     filteredCards = [...flashcards];
+    
+    // Bland kortene ved start
+    shuffleArray(filteredCards);
+    
     updateReviewQueue();
 }
 
@@ -233,10 +237,20 @@ function cleanHTML(html) {
 function updateReviewQueue() {
     const now = Date.now();
     reviewQueue = filteredCards
-        .filter(card => card.nextReview <= now)
-        .sort((a, b) => a.nextReview - b.nextReview);
+        .filter(card => card.nextReview <= now);
+    
+    // Bland kortene tilfældigt i stedet for at sortere dem
+    shuffleArray(reviewQueue);
     
     updateStats();
+}
+
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
 }
 
 function updateStats() {
@@ -309,10 +323,10 @@ function rateCard(rating) {
     // Save progress
     saveProgress();
     
-    // Update queue and move to next card
+    // Update queue (vil blive blandet automatisk)
     updateReviewQueue();
     
-    // Show next due card or continue normally
+    // Vis næste kort fra den nu tilfældigt blandede kø
     if (reviewQueue.length > 0) {
         const nextDueCard = reviewQueue[0];
         const nextIndex = filteredCards.findIndex(c => c.id === nextDueCard.id);
@@ -320,7 +334,7 @@ function rateCard(rating) {
             currentIndex = nextIndex;
         }
     } else {
-        // No more cards due, move to next card
+        // Ingen flere kort klar nu - vis næste kort i rækken
         nextCard();
     }
     
@@ -399,11 +413,9 @@ function prevCard() {
 }
 
 function shuffleCards() {
-    for (let i = filteredCards.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [filteredCards[i], filteredCards[j]] = [filteredCards[j], filteredCards[i]];
-    }
+    shuffleArray(filteredCards);
     currentIndex = 0;
+    updateReviewQueue();
     displayCard(currentIndex);
 }
 
