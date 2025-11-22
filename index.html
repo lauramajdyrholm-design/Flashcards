@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anatomi og Fysiologi - Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Anatomi og Fysiologi Flashcards</h1>
+            <div class="controls">
+                <select id="categoryFilter">
+                    <option value="all">Alle emner</option>
+                </select>
+                <input type="text" id="searchBox" placeholder="Søg i flashcards...">
+                <button id="shuffleBtn">Bland kort</button>
+            </div>
+        </header>
+
+        <main>
+            <div class="stats">
+                <span id="cardCounter">Kort: 0 / 0</span>
+                <span id="categoryName"></span>
+            </div>
+
+            <div class="flashcard-container">
+                <div class="flashcard" id="flashcard">
+                    <div class="card-content">
+                        <div class="card-section topic">
+                            <h3>Emne</h3>
+                            <p id="topic"></p>
+                        </div>
+                        <div class="card-section question">
+                            <h3>Spørgsmål</h3>
+                            <div id="question"></div>
+                        </div>
+                        <div class="card-section answer" id="answerSection">
+                            <h3>Svar</h3>
+                            <div id="answer"></div>
+                        </div>
+                    </div>
+                    <button class="flip-btn" id="flipBtn">Vis svar</button>
+                </div>
+            </div>
+
+            <div class="rating-buttons" id="ratingButtons">
+                <button class="rating-btn difficult" data-rating="difficult">
+                    <span class="emoji">😰</span>
+                    <span class="label">Husker ikke</span>
+                    <span class="time">Om 1-2 min</span>
+                </button>
+                <button class="rating-btn medium" data-rating="medium">
+                    <span class="emoji">🤔</span>
+                    <span class="label">Husker lidt</span>
+                    <span class="time">Om 5-10 min</span>
+                </button>
+                <button class="rating-btn easy" data-rating="easy">
+                    <span class="emoji">✅</span>
+                    <span class="label">Kan den godt</span>
+                    <span class="time">Om flere timer/dag</span>
+                </button>
+            </div>
+
+            <div class="navigation">
+                <button id="prevBtn" class="nav-btn">← Forrige</button>
+                <button id="nextBtn" class="nav-btn">Næste →</button>
+            </div>
+
+            <div class="stats-bottom">
+                <div class="review-stats">
+                    <span>Skal gennemgås: <strong id="dueCount">0</strong></span>
+                    <span>Gennemgået: <strong id="reviewedCount">0</strong></span>
+                    <span>Total: <strong id="totalCount">0</strong></span>
+                </div>
+            </div>
+
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
