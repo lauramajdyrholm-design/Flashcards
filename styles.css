@@ -48,6 +48,20 @@ h1 {
     transition: all 0.3s ease;
 }
 
+.section-btn {
+    padding: 10px 16px;
+    background: white;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    color: #667eea;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.section-btn:hover {
+    background: #f0f4ff;
+}
+
 .controls select {
     min-width: 250px;
     background: white;

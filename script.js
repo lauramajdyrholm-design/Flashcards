@@ -220,6 +220,8 @@ function getCategories() {
 function populateCategoryFilter() {
     const select = document.getElementById('categoryFilter');
     const categories = getCategories();
+    // Reset options (keep a default 'all')
+    select.innerHTML = '<option value="all">Alle emner</option>';
     
     categories.forEach(category => {
         const option = document.createElement('option');
@@ -480,7 +482,74 @@ setInterval(() => {
     updateReviewQueue();
 }, 30000);
 
-// Initialize
-parseFlashcards();
-populateCategoryFilter();
-displayCard(0);
+// Load external deck file (Molekylær biologi) and merge with existing cards
+async function loadExternalDeck(url) {
+    try {
+        const res = await fetch(url);
+        if (!res.ok) {
+            console.warn('Kunne ikke hente ekstern deck:', url);
+            return;
+        }
+        const text = await res.text();
+        const lines = text.split('\n');
+        const newCards = [];
+        lines.forEach((line) => {
+            const l = line.trim();
+            if (!l || l.startsWith('#')) return;
+            const parts = l.split('\t');
+            // Format: kolonne1, kolonne2=deck/topic, kolonne3=question, kolonne4=answer
+            if (parts.length >= 4) {
+                const topic = parts[1].replace(/<[^>]*>/g, '').trim();
+                const question = parts[2].trim();
+                const answer = parts[3].trim();
+                newCards.push({
+                    id: flashcards.length + newCards.length,
+                    topic,
+                    question,
+                    answer,
+                    nextReview: Date.now(),
+                    reviewCount: 0,
+                    lastRating: null
+                });
+            }
+        });
+
+        if (newCards.length > 0) {
+            flashcards = flashcards.concat(newCards);
+            // After adding new cards, persist or update queues
+            updateReviewQueue();
+        }
+    } catch (e) {
+        console.warn('Fejl ved indlæsning af ekstern deck:', e);
+    }
+}
+
+// Initialize (async to allow fetching the external file before populating UI)
+(async function init() {
+    parseFlashcards();
+    // Attempt to load the molecular biology deck from local file
+    await loadExternalDeck('Molekylær biologi.txt');
+    populateCategoryFilter();
+    updateReviewQueue();
+    displayCard(0);
+
+    // Quick section buttons (viser kort der starter med given prefix)
+    const anatomiBtn = document.getElementById('anatomiBtn');
+    const molekylBtn = document.getElementById('molekylBtn');
+    if (anatomiBtn) {
+        anatomiBtn.addEventListener('click', () => {
+            filteredCards = flashcards.filter(c => c.topic && c.topic.startsWith('Anatomi og fysiologi'));
+            currentIndex = 0;
+            updateReviewQueue();
+            displayCard(0);
+        });
+    }
+    if (molekylBtn) {
+        molekylBtn.addEventListener('click', () => {
+            filteredCards = flashcards.filter(c => c.topic && c.topic.startsWith('Molekylær biologi'));
+            currentIndex = 0;
+            updateReviewQueue();
+            displayCard(0);
+        });
+    }
+})();

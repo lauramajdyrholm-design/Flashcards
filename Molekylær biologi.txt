@@ -1,0 +1,585 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#tags column:8
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er formålet med mitose?	At lave to genetisk identiske diploide celler til vækst og reparation.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Nævn faserne i mitose i rækkefølge.	Profase, metafase, anafase, telofase (+ cytokinese).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvornår adskilles søsterkromatiderne?	I anafasen.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvordan reguleres mitosen?	Via checkpoints (G1/S, G2/M, metafase/anafase) styret af cykliner og CDK’er.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Klinisk betydning af fejl i mitose?	Kan føre til ukontrolleret celledeling → kræft.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er formålet med meiose?	At danne haploide kønsceller (gameter) og skabe genetisk variation.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvor mange celledelinger og datterceller i meiose?	2 delinger → 4 haploide celler.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvornår sker overkrydsning (crossing over)?	I profase I af meiosen.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvornår adskilles homologe kromosomer, og hvornår adskilles søsterkromatider?	Homologe kromosomer i anafase I; søsterkromatider i anafase II.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Klinisk betydning af fejl i meiosen?	Kromosomfejl, fx trisomi 21 (Downs syndrom).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er de tre vigtigste forskelle mellem mitose og meiose?	"<li><div>Mitose: 1 deling → 2 diploide celler; Meiose: 2 delinger → 4 haploide celler.</div>
+</li>
+<li>
+<div>Mitose giver ingen variation; Meiose giver variation (overkrydsning, uafhængig fordeling).</div>
+</li>
+<li>
+<div>Mitose bruges til vækst/reparation; Meiose til reproduktion.</div></li>"				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er mitose?	Celledeling, hvor en diploid celle bliver til to genetisk identiske diploide datterceller. Bruges til vækst og vedligeholdelse.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er meiose?	Celledeling, hvor kønsceller dannes. Reducerer kromosomtallet fra diploid til haploid og skaber genetisk variation.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Nævn mitosens faser.	Profase, metafase, anafase, telofase, efterfulgt af cytokinese.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker med DNA under mitose?	Kromosomer kondenserer, lægges i midten, søsterkromatider adskilles og dekondenserer i nye datterceller				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad betyder diploide celler?	Celler med to sæt kromosomer (fra mor og far).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad betyder haploide celler?	Celler med ét sæt kromosomer (halvt sæt).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er søsterkromatider?	Identiske kopier af et kromosom, bundet sammen ved centromeret.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er homologe kromosomer?	Kromosompar fra mor og far, som bærer gener for de samme egenskaber, men kan have forskellige varianter.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er datterceller?	De nye celler, der dannes efter celledeling.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er tentrådsapparatet?	Mikrotubuli-struktur, der trækker kromosomerne på plads under mitose/meiose.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er kinetochorer?	Proteinstrukturer på centromeret, hvor tentrådene hæfter for at trække kromosomerne.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er cytokinese?	Deling af cytoplasma, så to separate datterceller dannes.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er cykliner?	Proteiner, der fungerer som tidsindikatorer i cellecyklus og styrer, hvornår cellen går videre i cyklus.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er cyklinafhængige kinaser (CDK’er)?	Enzymer, der aktiveres af cykliner og igangsætter processer, der driver cellecyklus videre.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er aneuploidi?	Abnormt kromosomantal i en celle (for mange eller for få kromosomer).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad menes med pol i celledeling?	Cellens to modsatte ender, hvor kromosomer trækkes hen under anafase.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Genetisk signifikans af meiose?	Overkrydsning og tilfældig fordeling skaber genetisk variation i kønsceller, hvilket fremmer evolution og tilpasning.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvilke to hovedtyper af celler findes? Under mitose og meiose	Kønsceller (gonadale) og somatiske celler.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad kendetegner kønsceller?	Opstår ved meiose og har 1 x 23 kromosomer (haploid).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad kendetegner somatiske celler?	Opstår ved mitose og har 2 x 23 kromosomer (diploid).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvilke typer delingshyppighed findes?	Statiske, stabile og fornyende celler.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er statiske celler?	Permanent i G0-fasen, kan ikke dele sig.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er stabile celler?	I G0-fasen, men kan stimuleres til mitose.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er fornyende celler?	Stamceller, som aktivt går gennem mitose.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvilke to typer celledød findes?	Nekrose og apoptose.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker der ved nekrose?	Cellen dør efter beskadning, membranen går i stykker, indhold frigives → inflammation.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker der ved apoptose?	Kontrolleret celledød, cellen skrumper, fagocyteres, kræver energi.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Varighed af interfase?	G1 ca. 10 t, S ca. 10 t, G2 ca. 4 t (meget variabel).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Varighed af mitose?	Ca. 1 time.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Huskerregel for cellecyklus regulering?	CCCC – CelleCyklus reguleres af Cykliner og CDK’er.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hovedopgaver i G1-fasen?	RNA- og proteinproduktion, cellevækst, forberedelse til DNA-replikation.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hovedopgaver i S-fasen?	DNA-replikation og kopiering af centrosomer.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hovedopgaver i G2-fasen?	Cellevækst, forberedelse til mitose, proteinsyntese, DNA-kontrol.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hovedopgaver i M-fasen?	Celledeling; karyokinese = kernedeling, cytokinese = cytoplasmadeling.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Huskeregel for cellecyklus faser?	GSKC – G-faser = Growth, S = Syntese, Karyokinese = kernedeling, Cytokinese = cytoplasmadeling.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i profase under mitose?	Kromosomer kondenserer, søsterkromatider synlige, kinetokor dannes, nucleoli forsvinder, centrosomer danner spindelfibre, kernemembran nedbrydes.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i prometafase?	Kernemembranen opløses, kromosomerne får kontakt med tentrådsapparatet.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i metafase?	Kromosomer placeres i midten af cellen (metafasepladen).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i anafase?	Søsterkromatider adskilles og trækkes mod hver pol, cellen aflang, organeller fordeles.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i telofase?	Kernemembran gendannes, to nye kerner dannes, cellen begynder fysisk deling.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvilke faser har meiose?	Første meiotiske deling: profase I, metafase I, anafase I, telofase I. Anden meiotiske deling: profase II, metafase II, anafase II, telofase II.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i profase I under meiosen?	Kromosomer pakkes, homologe kromosomer parres (zygotén), overkrydsning sker (pakytén), synaptonemal opløses (diploten), kromosomer pakkes yderligere (diakinese).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i metafase I under meiosen?	Kromosompar placeres i metafasepladen, kinetokorer binder søsterkromatider.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i anafase I under meiosen?	Homologe kromosomer adskilles, hver pol får 23 kromosomer, søsterkromatider forbliver sammen.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i telofase I under meiosen?	To genetisk forskellige haploide celler dannes, kernemembran dannes.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker i anden meiotiske deling?	Søsterkromatider adskilles, fire haploide gameter dannes, kernemembran gendannes, cytokinese afslutter deling.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Genetisk forskel mellem mitose og meiose?	Mitose: to identiske diploide celler. Meiose: fire genetisk forskellige haploide celler.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er forskellen på mitose og meiose?	"<li><div>Mitose: 1 celledeling → 2 genetisk identiske diploide datterceller (46 kromosomer).</div>
+</li>
+<li>
+<div>Meiose: 2 celledelinger → 4 genetisk forskellige haploide kønsceller (23 kromosomer).</div></li>"				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvor mange datterceller dannes ved mitose, og hvad er deres karyotype?	"<div>2 diploide datterceller (46 kromosomer), genetisk identiske.</div>
+<div></div>"				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvor mange datterceller dannes ved meiose, og hvad er deres karyotype?	4 haploide kønsceller (23 kromosomer), genetisk forskellige.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvornår separeres homologe kromosomer under meiosen?	I anafase I.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvornår separeres søsterkromatider under meiosen?	I anafase II.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvornår separeres søsterkromatider under mitosen?	I anafase.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker der i metafase I af meiosen?	Homologe kromosompar placeres i cellens midterplan.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker der i anafase I af meiosen?	Homologe kromosomer trækkes mod hver sin pol.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad sker der i telofase I af meiosen?	Kernemembranen gendannes, og kromosomerne dekondenserer let.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er overkrydsning, og hvilken betydning har det?	Udveksling af DNA mellem homologe kromosomer i profase I → giver genetisk variation.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er et kromosom?	DNA dobbeltspiral pakket i proteiner (histoner).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad betyder homologe kromosomer?	To kromosomer i et par – ét fra mor, ét fra far – med samme gener men evt. forskellige alleler.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er autosomer?	De 22 kromosompar, der ikke er kønskromosomer.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er et centromer?	Den snævre region, hvor søsterkromatiderne holdes sammen.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er kinetochorer	Proteinstrukturer på centromeret, hvor tentrådsapparatet hæfter.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er tentrådsapparatet (mitotiske spindel)?	Mikrotubuli, der styrer fordelingen af kromosomer under celledeling.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er et codon?	En triplet af nukleotider i mRNA, der koder for én aminosyre.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er DNA-ligase?	Enzym, der sammenfletter Okazaki-fragmenter på lagging strand.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er proofreading i DNA-replikation?	DNA-polymerase tjekker og retter fejl under syntesen.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er et gen?	Et stykke DNA, der koder for et protein eller RNA.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er en allel?	En variant af et gen.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad betyder homozygot?	To ens alleler (fx AA eller aa).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad betyder heterozygot?	To forskellige alleler (fx Aa).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad betyder fænotype?	Det observerbare udtryk af genotypen (fx blå øjne).				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad siger Mendels 1. lov?	Alleler adskilles i gameter, så hver gamet kun bærer én allel.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad siger Mendels 2. lov?	Alleler nedarves uafhængigt, hvis generne ligger på forskellige kromosomer.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad bruges Punnett squares til?	Til at beregne sandsynligheden for genotyper og fænotyper hos afkom.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er en punktmutation?	En ændring i én enkelt base i DNA.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er missense-mutation?	En ændring giver en anden aminosyre.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er nonsense-mutation?	En ændring danner et stopcodon → forkortet protein.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er silent mutation?	Ændring i DNA uden ændring i aminosyre.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er frameshift-mutation?	Indsættelse/sletning af base → hele læserammen forskydes.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er forskel på somatisk og kønscelle-mutation?	"Somatisk: kun individet rammes.<br>
+Kønscelle: kan nedarves til næste generation."				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad farver PAS-farvning?	Kulhydrater, fx glykogen og slim → magenta.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad farver May-Grünwald-Giemsa?	Blodudstryg: kerner blå/lilla, cytoplasma blålig, røde blodlegemer rosa.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Hvad er immunhistokemi?	Metode, der bruger antistoffer til at påvise specifikke proteiner i væv.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Fordel ved immunhistokemi?	Høj specificitet, mulighed for at identificere bestemte celler/proteiner.				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	Ulemper ved immunhistokemi?	Kræver gode antistoffer, kan give falsk positiv/negativ.				
+Grundlæggende	Molekylær biologi::Amino syrer	A - Ala	"Alanin&nbsp;<br>findes i næsten alle proteiner&nbsp;<br>Upolær&nbsp;<br>neutral&nbsp;<br><img src=""200px-Alanin_-_Alanine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	R - Arg	"Arginin<br>Polær<br>Basisk&nbsp;<br>Findes i ribonukleotider<br><img src=""250px-Arginin_-_Arginine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	N - Asn	"Asparagin&nbsp;<br>Polær<br>Neutral&nbsp;<br>Ikke essentiel aminosyre<br><img src=""200px-L-Asparagin_-_L-Asparagine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	D - Asp	Asparaginsyre<br>Polær&nbsp;<br>Sur				
+Grundlæggende	Molekylær biologi::Amino syrer	C - Cys	"Cystein<br>Polær&nbsp;<br>Neutral&nbsp;<br><img src=""200px-L-Cystein_-_L-Cysteine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	E - Glu	"Glutaminsyre<br>Polær<br>Sur<br>Indgår proteiner&nbsp;<br><img src=""250px-Glutaminsäure_-_Glutamic_acid.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	Q - Gln	"Glutamin&nbsp;<br>Polær<br>Neutral&nbsp;<br><img src=""250px-L-Glutamin_-_L-Glutamine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	G - Gly	"Glycin<br>Upolær<br>Neutal&nbsp;<br><img src=""200px-Glycin_-_Glycine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	H - His	"Histidin&nbsp;<br>Polær<br>Basisk&nbsp;<br>Aminosyrer i proteiner i ernæring<br><img src=""250px-Histidin_-_Histidine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	I - Ile	"Isoleucin&nbsp;<br>Upolær<br>Neutral&nbsp;<br><img src=""200px-L-Isoleucin_-_L-Isoleucine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	K - Lys	Lysin<br>Polær<br>Basisk&nbsp;<br>				
+Grundlæggende	Molekylær biologi::Amino syrer	M - Met	"Methionin<br>Upolær<br>Neutal&nbsp;<br><img src=""250px-Methionin_-_Methionine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	F - Phe	"Fenylalanin<br>Upolær<br>Neutral&nbsp;<br><img src=""250px-Phenylalanine.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	P - Pro	"Prolin<br>Upolær<br>Neutral&nbsp;<br><img src=""250px-(S)-Proline.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	S - Ser	"Serin<br>Polær<br>Neutral&nbsp;<br><img src=""200px-Serin_-_Serine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	T - Thr	"Threonin<br>Polær<br>Neutral&nbsp;<br><img src=""200px-L-Threonin_-_L-Threonine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	W - Trp	"Upolær<br>Neutral&nbsp;<br><img src=""250px-Tryptophan_-_Tryptophan.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	Y - Tyr	"Tyrosin<br>Polær<br>Neutral&nbsp;<br><img src=""250px-L-Tyrosin_-_L-Tyrosine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Amino syrer	V - Val	"Valin<br>Upolær<br>Neutral&nbsp;<br><img src=""200px-L-Valin_-_L-Valine.svg.png"">"				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvor mange datterceller dannes der ved mitose, og hvordan er deres karyotype?	2 datterceller, begge diploide (2n), identiske med modercellen				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad består den humane karyotype af?</div>	<div>Den humane karyotype består af 46 kromosomer organiseret i 23 par: 22 par autosomer og 1 par kønskromosomer (XX eller XY). De sorteres i et karyogram efter størrelse og centromerplacering.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er kromosomers hovedkomponenter?</div>	<div>Kromosomer består af DNA viklet om histoner, dannende en dobbelt helix. De har en kort p-arm og en lang q-arm, adskilt af centromeren, med telomerer i enderne for beskyttelse.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er telomerer, og hvad gør de?</div>	<div>Telomerer er beskyttende DNA-sekvenser i kromosomendene, der forhindrer nedbrydning og sikrer stabilitet under celledeling.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er forskellen mellem euchromatin og heterochromatin?</div>	<div>Euchromatin er løst DNA, aktivt i genekspression. Heterochromatin er tæt pakket DNA, normalt inaktivt.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad inkluderer et gens opbygning?</div>	<div>Et gen inkluderer kodende regioner (exons), ikke-kodende regioner (introns), og regulatoriske elementer som promotorer, enhancere og silencere.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en promotor, og hvad gør den?</div>	<div>En promotor er en DNA-sekvens nær et gen, hvor RNA-polymerase binder for at starte transkription.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er forskellen mellem exons og introns?</div>	<div>Exons er kodende DNA-sekvenser, der bliver til proteiner. Introns er ikke-kodende sekvenser, der fjernes under RNA-splicing.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er enhancere og silencere?</div>	<div>Enhancere er DNA-sekvenser, der øger transkriptionen, mens silencere hæmmer den, begge binder transkriptionsfaktorer for at regulere genudtryk.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvor mange gener indeholder det humane genom?</div>	<div>Det humane genom indeholder ca. 20.000-25.000 proteinkodende gener.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er chromatin?</div>	<div>Chromatin er DNA sammen med histoner, der kan være løst (euchromatin) eller tæt pakket (heterochromatin) i kromosomer.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er den grundlæggende struktur af DNA?</div>	<div>DNA er en dobbeltstrenget helix opbygget af nukleotider med en fosfatgruppe, deoxyribose-sukker og baser (A, T, C, G). Strengene bindes via 3'-5'-fosfodiesterbindinger og holdes sammen af hydrogenbindinger (A-T: 2, C-G: 3), med antiparallel retning (5' → 3').</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad adskiller RNA's sukker fra DNA's sukker?</div>	<div>RNA har ribose-sukker med en hydroxylgruppe (OH) på 2'-position, mens DNA har deoxyribose med et hydrogen (H) på 2'-position, hvilket gør RNA mindre stabilt.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilke baser findes i RNA, og hvordan skiller de sig fra DNA?</div>	<div>RNA har adenin (A), uracil (U) i stedet for thymin, cytosin (C) og guanin (G). Den er enkeltstrenget og dannes fra DNA via transkription.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvordan bindes nukleotider sammen i RNA?</div>	<div>Nukleotider i RNA bindes sammen via 3'-5'-fosfodiesterbindinger mellem ribose-sukkeret og fosfatgruppen, ligesom i DNA, men strengen er typisk enkelt.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er den grundlæggende opbygning af proteiner?</div>	<div>Proteiner er bygget af aminosyrer, der bindes via peptidbindinger mellem en carboxylgruppe (COOH) og en aminogruppe (NH₂), danner en polypeptidkæde, som foldes i 3D-strukturer.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad bestemmer proteiners struktur og funktion?</div>	<div>Proteiners struktur og funktion bestemmes af aminosyrernes sidekæder (R-grupper), der interagerer under foldning til primær, sekundær, tertiær og kvaternær struktur.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er det centrale dogme i molekylærbiologi?</div>	<div>Det centrale dogme beskriver flowet af genetisk information: DNA lagres information, som ved transkription kopieres til mRNA i nucleus, og ved translation omdannes til proteiner i cytoplasmaet.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilke trin indgår i transkription?</div>	<div>Transkription inkluderer initiering (RNA-polymerase binder til promotor), elongering (syntese af mRNA) og terminering, efterfulgt af processering (5'-capping, polyadenylering, splicing).</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilke trin indgår i translation?</div>	<div>Translation inkluderer initiering (ribosom binder mRNA og start-tRNA), elongering (aminosyrer samles til protein) og terminering (stop-codon afslutter syntesen).</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilken type DNA-mutation kan forårsage arvelig brystkræft?</div>	<div>Mutationer i BRCA1-genet (på kromosom 17) forstyrrer DNA-reparation, hvilket øger risikoen for arvelig brystkræft.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilken sygdom skyldes en kromosomstrukturfejl?</div>	<div>Downs syndrom skyldes en ekstra kopi af kromosom 21 (trisomi 21) pga. en strukturelle fejl under meiose.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilken sygdom er forbundet med fejl i RNA-splicing?</div>	<div>Spinal muskelatrofi (SMA) skyldes mutationer i SMN1-genet, der reducerer funktionelt mRNA og dermed motorneuron-protein.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilken rolle spiller mikroRNA i sygdomme?</div>	<div>MikroRNA kan blive dysfunktionelt og overekspressere onkogener, hvilket bidrager til cancerudvikling.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilken sygdom skyldes misfoldning af prion-proteiner?</div>	<div>Kugelsyge (Creutzfeldt-Jakob) skyldes misfoldning af prion-proteiner (PrP), der omdanner normale proteiner til patologiske former.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilken sygdom er forbundet med et defekt kloridkanalprotein?</div>	<div>Cystisk fibrose skyldes mutationer i CFTR-genet, der producerer et defekt kloridkanalprotein, hvilket påvirker slimproduktion.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvilken sygdom involverer overproduktion af amyloid?</div>	<div>Alzheimers sygdom er forbundet med overproduktion og akkumulering af amyloid-proteiner i hjernen.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er årsag-virkningssammenhængen mellem DNA-mutation og proteinfejl?</div>	<div>En DNA-mutation overføres til mRNA via transkription og resulterer i et defekt protein, f.eks. ved sicklecelleanæmi, hvor en baseændring ændrer hemoglobin.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvorfor er proteinmisbrug skadeligt?</div>	<div>Proteinmisbrug (f.eks. misfoldning eller over-/underekspression) skader celler og væv, som ses i neurodegenerative sygdomme eller type 1-diabetes (mangel på insulin).</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er mitose?</div>	<div>Deling til 2 identiske diploide celler.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er meiose?</div>	<div>Deling til 4 haploide kønsceller med variation.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad sker der med DNA i mitose?</div>	<div>Replikerer og adskilles til søsterkromatider.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er DNA-replikation?</div>	<div>Kopiering af DNA før celledeling.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er en karyotype?</div>	<div>46 kromosomer (22 autosomer + køn).</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er et gen?</div>	<div>DNA-sekvens med promotor, exons og introns.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad påvirker arvemassen?</div>	<div>Mutation, selektion, migration.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er dominant nedarvning?</div>	<div>Én muteret allel er nok.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er recessiv nedarvning?</div>	<div>To muterede alleler kræves.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er kønsbunden nedarvning?</div>	<div>X-linked, rammer oftest drenge.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er konsekvensen af somatiske mutationer?</div>	<div>Kun i individet (f.eks. kræft).</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad er konsekvensen af kønscellemutationer?</div>	<div>Nedarves til afkom.</div>				
+Grundlæggende	Molekylær biologi::Genetik og nedarvning	<div>Hvad bruges Hardy-Weinberg til?</div>	<div>Beregne risiko for sygdom.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er det centrale dogme?</div>	<div>DNA → mRNA → protein.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad sker i transkription?</div>	<div>DNA kopieres til mRNA.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad sker i translation?</div>	<div>mRNA oversættes til protein.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er RNA’s opbygning?</div>	<div>Enkeltstrenget med ribose og A-U/C-G.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er proteinfoldning?</div>	<div>Primær → sekundær → tertiær struktur.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er post-translationelle modifikationer?</div>	"<div><table><tbody><tr><td>Ændringer som fosforylering efter syntese.</td></tr></tbody></table></div>
+<div></div>"				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er transkription?</div>	<div>Kopiering af DNA til mRNA i kerne.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er translation?</div>	<div>Oversættelse af mRNA til protein på ribosomer.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er RNA’s rolle?</div>	<div>Bærer genetisk kode fra DNA til proteinsyntese.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er proteinfoldning?</div>	Primær → sekundær → tertiær struktur via bindinger				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er post-translationelle modifikationer?</div>	<div>Ændringer som fosforylering efter syntese.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er det centrale dogmes trin?</div>	<div>DNA → transkription → mRNA → translation → protein.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en genmutation?</div>	<div>Ændring i DNA-sekvensen, kan påvirke proteiner.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en missense-mutation?</div>	<div>Ændrer én base, resulterer i en anden aminosyre.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en nonsense-mutation?</div>	<div>Ændrer kodon til stop, afbryder proteinsyntese.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er splicing?</div>	<div>Fjernelse af introner fra mRNA, forlader exons.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en promotor?</div>	<div>DNA-sekvens, starter transkription.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en terminator?</div>	<div>DNA-sekvens, stopper transkription.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en codon?</div>	<div>Tre nukleotider i mRNA, koder for aminosyre.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er tRNA’s rolle?</div>	<div>Frakter aminosyrer til ribosomet under translation.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er rRNA’s rolle?</div>	<div>Danner ribosomets struktur og hjælper med translation.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en peptidbinding?</div>	<div>Binding mellem aminosyrer i proteiner.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en enzymatisk funktion?</div>	<div>Katalyserer kemiske reaktioner i cellen.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en chaperon?</div>	<div>Hjælper proteiner med korrekt foldning.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en frameshift-mutation?</div>	<div>Indsættelse/sletning af baser, forskubber læserramme.</div>				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	<div>Hvad er en silent mutation?</div>	"<div><table><tbody><tr><td>Ændrer base, men ikke aminosyre.</td></tr></tbody></table></div>
+<div></div>"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0774:top=.8329:width=.7341:height=.1588:oi=1}}<br>	"<img src=""paste-8e6aa9316093c5875246d85b9f4a6a69ec76d6a9.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.1454:top=.7629:width=.6321:height=.1715:oi=1}}<br>	"<img src=""paste-24c741144d260c37e2138e744180aa1335075f4a.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.1394:top=.8339:width=.6205:height=.1461:oi=1}}<br>	"<img src=""paste-aa07c48a2621f5eb7ab762a7cf9194b501d63c90.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.1739:top=.8922:width=.6839:height=.0974:oi=1}}<br>	"<img src=""paste-83142975a0c09f38230c85bb0b8b0d123cb864a9.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0801:top=.8943:width=.7821:height=.1164:oi=1}}<br>	"<img src=""paste-7957559a105239373aebfdd650f2e1c793f1f8a6.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.1554:top=.8361:width=.6159:height=.1355:oi=1}}<br>	"<img src=""paste-4683162e149e83161edef0f3d3cbf6a7a16c4768.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0094:top=.8932:width=.9356:height=.0889:oi=1}}<br>	"<img src=""paste-25fae1bcbb599f8ffc64ef3fbd63081df73ab85f.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0000:top=.8764:width=.9231:height=.1186:oi=1}}<br>	"<img src=""paste-230d9a291401d70611f6a12772a7c649481438aa.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.109:top=.8679:width=.6221:height=.1228:oi=1}}<br>	"<img src=""paste-fd97879d0341e438edca3eeb772900876cc0a377.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0447:top=.8361:width=.7796:height=.1376:oi=1}}<br>	"<img src=""paste-df9aaa31ee785567d15ecb2cb001035cd002944b.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0416:top=.8582:width=.7881:height=.1164:oi=1}}<br>	"<img src=""paste-0d8ea3405ebde8083e090f0075c1cbfcf3037390.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0435:top=.889:width=.8818:height=.1037:oi=1}}<br>	"<img src=""paste-31f81b37db12d78b931c71971c1644803d997eee.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.042:top=.9114:width=.8282:height=.1291:oi=1}}<br>	"<img src=""paste-466253c24c7137ca60b56df55f4f79d535aa3e77.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0357:top=.9061:width=.7932:height=.1207:oi=1}}<br>	"<img src=""paste-466253c24c7137ca60b56df55f4f79d535aa3e77.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0245:top=.85:width=.8252:height=.1228:oi=1}}<br>	"<img src=""paste-5fdc852b88b07c12c655b99a1a13365868bf5b66.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0521:top=.8933:width=.7439:height=.0932:oi=1}}<br>	"<img src=""paste-e74378d878306ebc9c08200048ac32bd5439493f.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.1413:top=.9378:width=.6164:height=.0681:oi=1}}<br>	"<img src=""paste-5aac114d875bbdab56ddf55777f593e9b147c98f.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0708:top=.9433:width=.6899:height=.0634:oi=1}}<br>	"<img src=""paste-9e21f23cc1e33b811ed99f9e9477cd770607a30a.jpg"">"				
+Image Occlusion	Molekylær biologi::Amino syrer	{{c1::image-occlusion:rect:left=.0294:top=.8666:width=.3442:height=.1068:oi=1}}<br>	"<img src=""paste-a7e99da9c1b81c95db546871a08b8c01a4e617ac.jpg"">"				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er et enzym?	Enzymer er biologiske katalysatorer, typisk proteiner, som fremskynder kemiske reaktioner uden selv at blive forbrugt.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad bestemmer enzymers funktion?	Deres tredimensionelle struktur og det aktive center, hvor substratet bindes.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvilke faktorer kan ændre enzymers funktion?	Ændringer i pH, temperatur og mutationer.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvilke biokemiske reaktionsveje involverer enzymer?	Glykolyse, citronsyrecyklus og elektrontransportkæden.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvorfor er enzymer vigtige på cellulært niveau?	De styrer metabolisme og energiproduktion.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Nævn eksempler på enzymers rolle i organsystemer.	Leverenzymer i detoxifikation, fordøjelsesenzymer i tarmen, ATP-syntase i mitokondrier.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad kan dysfunktionelle enzymer føre til?	Sygdomme som fenylketonuri og laktoseintolerans.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad består enzymer af?	Aminosyrer foldet til en specifik struktur med et aktivt center.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er cofaktorer?	Hjælpekomponenter som metalioner eller coenzymer (fx NAD⁺), nødvendige for enzymfunktion.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad beskriver Michaelis-Menten modellen?	Forholdet mellem substratkoncentration og reaktionshastighed.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er Vmax og Km	Vmax er maksimal hastighed, Kmer substratkoncentration ved halv Vmax				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan påvirker enzymer reaktionshastighed?	De sænker aktiveringsenergien ved at stabilisere overgangstilstanden.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvilke faktorer påvirker enzymaktivitet?	Temperatur, pH, substratkoncentration og inhibitorer.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er forskellen på kompetitive og non-kompetitive inhibitorer?	Kompetitive binder til aktivt center, non-kompetitive ændrer enzymets form.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Nævn de 6 enzymklasser og deres funktion.	<li><div>Oxidoreduktaser: Elektronoverførsel</div></li><li><div>Transferaser: Overførsel af grupper</div></li><li><div>Hydrolaser: Spalter med vand</div></li><li><div>Lyaser: Fjerner grupper</div></li><li><div>Isomeraser: Omarrangerer molekyler</div></li><li><div>Ligaser: Danner bindinger med ATP</div></li>				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er Lock and Key modellen?	Substratet passer perfekt ind i enzymets aktive center – som en nøgle i en lås.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er Induced Fit modellen?	Enzymet ændrer form ved substratbinding for bedre pasform.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan behandles metanolforgiftning?	Med ethanol eller fomepizol, som hæmmer alkoholdehydrogenase og forhindrer dannelsen af giftige metabolitter.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er en koblet reaktion?	En energikrævende reaktion kobles til en energigivende, fx ATP-hydrolyse.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Giv et eksempel på en koblet reaktion.	Glukose + ATP → Glukose-6-fosfat + ADP.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad består kromosomer af?	DNA og histonproteiner, som danner kromatin.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad sker der med kromatin under celledeling?	Det kondenseres til synlige kromosomer.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad er strukturen af et kromosom?	Et centromer og to arme: p (kort) og q (lang).				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad består et gen af?	Promotorregion, exons (kodende), introns (ikke-kodende), og en terminator.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvordan udtrykkes genetisk information?	Via DNA-sekvensen, som oversættes til funktionelle proteiner.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad er funktionen af enhancers og silencers?	De regulerer genets aktivitet.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad er DNA’s struktur?	Dobbeltstrenget helix med nukleotider: A, T, C, G og deoxyribose som sukker.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad er RNA’s struktur?	Enkelstrenget med nukleotider: A, U, C, G og ribose som sukker.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvilke typer RNA findes der?	mRNA (messenger), tRNA (transfer), rRNA (ribosomal).				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad består proteiner af?	Aminosyrer bundet via peptidbindinger og foldet til specifik struktur.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad bestemmer proteiners funktion?	Deres struktur – fx enzymer, receptorer, transportproteiner.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad er det centrale dogme?	Informationsflowet: DNA → RNA → Protein.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad sker der under transkription?	DNA omskrives til mRNA af RNA-polymerase.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad sker der under translation?	mRNA oversættes til protein ved ribosomer.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad sker der under replikation?	DNA kopieres til en ny streng.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad består RNA af?	Ribonukleotider med ribose og uracil i stedet for thymin.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad gør mRNA?	Bærer genetisk kode fra DNA til ribosomer.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad gør tRNA?	Transporterer aminosyrer til ribosomet.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad gør rRNA?	Udgør den strukturelle og funktionelle del af ribosomet.				
+Grundlæggende	Molekylær biologi::Det centrale dogme for mRNA og protein syntese	Hvad sker der under mRNA-processering?	<li><div>5’-cap tilføjes</div></li><li><div>Poly-A hale tilføjes</div></li><li><div>Splicing: introns fjernes, exons samles</div></li><li><div>mRNA transporteres til cytoplasma</div></li>				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er et enzym	En biologisk katalysatorer&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvilken struktur har et enzym ?	Tredimensionel&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvilken funktion har et enzym ?	Afhænger af struktur, men bruges i ændringer i PH, temperatur eller skabe ændringer mutationer.&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er nogen reaktionsveje i enzyme ?	glykolyse, citronsyrecyklus og elektrontransportkæden&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er enzymers aktivitet ?&nbsp;	cellulær metabolisme og energiproduktion. fjel kan fører til sygdomme				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan er enzymet opbygget ?	aminsosyrer&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er enzymkinetik ?	Hvordan hastigheden er af en enzymatisk reaktion afhænger af substratkoncetration ?				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan påvirker enzym reaktionshastigheder ?	enzymet sænker aktiveringsenergi&nbsp;				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	Ved farvning med hemtoxylin i væv ses en farvning af ?	Nucleus&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er et enzym?&nbsp;	et protein der katalyserer kemiske reaktioner og øger reaktionshastigheden&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvorfor er enzymer vigtige?	De muliggør og regulerer kroppens biokemiske processer&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er enzymets aktive center?	Område hvor substratet binder sig og reaktioner sker.&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er et enzym-substrat-kompleks?	Midlertidig binding mellem enzym og substrat, som øger lokal koncentration.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er lock and key?	Substratet passer præcist til enzymets aktive center som en nøgle i en lås				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er induced fit-modellen	Enzymet ændrer form for at tilpasse substratet og sikre effektiv katalyse.&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"Hvordan sænker enzymer aktiveringsenergien?<div>
+<strong></strong></div>"	Ved at stabilisere overgangstilstanden og facilitere reaktionen.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er Vmax?<br>
+<strong></strong></div>"	Den maksimale hastighed enzymet kan arbejde med.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er Km?<br>
+<strong></strong></div>"	Substratkoncentration hvor V = ½ Vmax; lav Km = høj affinitet				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er Michaelis-Menten-ligningen?<br>
+<strong></strong></div>"	<div>V = (Vmax × [S]) / (Km + [S])</div>				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad viser Lineweaver-Burk-plottet?<br>
+<strong></strong></div>"	Grafisk metode til at bestemme Vmax og Km				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad sker ved kompetitiv inhibering?<br>
+<strong></strong></div>"	Km stiger, Vmax uændret – inhibitor konkurrerer med substratet.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>&nbsp;Hvad sker ved non-kompetitiv inhibering?<br>
+<strong></strong></div>"	Km uændret, Vmax falder – inhibitor ændrer enzymets form.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er en suicide inhibitor?<br>
+<strong></strong></div>"	Binder sig permanent under reaktionen og inaktiverer enzymet.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er EC-nummeret?<br>
+<strong></strong></div>"	Enzymets klassificeringsnummer – første tal angiver enzymgruppe				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er en cofaktor?<br>
+<strong></strong></div>"	Ikke-protein stof nødvendigt for enzymets funktion, fx FAD eller NAD⁺.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<strong><div></div></strong>&nbsp;Hvad er en hælprøve?<br>
+<strong></strong>"	Blodprøve fra nyfødte (2–3 døgn) til screening for genetiske sygdomme.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er PKU (phenylketonuri)?<br>
+<strong></strong></div>"	Genetisk sygdom hvor phenylalanin ikke omdannes til tyrosin – kaldes Føllings sygdom.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad gør alkoholdehydrogenase (ADH)?<br>
+<strong></strong></div>"	Nedbryder ethanol og methanol til aldehyder og syrer i leveren.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvordan behandles methanolforgiftning?<br>
+<strong></strong></div>"	Med ethanol, som har højere affinitet for ADH og blokerer methanol.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<strong><div></div></strong>&nbsp;Hvad betyder ΔG &lt; 0?<br>
+<strong></strong>"	Exergon reaktion – frigiver energi og sker spontant.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad betyder ΔG &gt; 0?<br>
+<strong></strong></div>"	Endergon reaktion – kræver energi og sker ikke spontant.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er formelen for Gibbs fri energi?<br>
+<strong></strong></div>"	ΔG = ΔH − T × ΔS				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er en koblet reaktion?<br>
+<strong></strong></div>"	En endergon reaktion koblet til en exergon reaktion, fx ATP-hydrolyse.				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"På billedet
+herunder ses en blodudstryning. Angiv hvilken farvemetode der er benyttet på
+dette præparat&nbsp;<img src=""paste-76ce2ef2672be5ac96d84ffa0d73b45dfbcfef3b.jpg"">"	"<div><span style=""color: rgb(0, 0, 0);"">May-Grünwald-Giemsa&nbsp;</span></div>"				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>Hvilken farvemetode/metoder er
+benyttet på præparatet med armhulehud på billedet herunder? Der kan være flere
+korrekte svar</div>
+<div><img alt=""Et billede, der indeholder rev, vand/blågrøn, skærmbillede
+
+AI-genereret indhold kan være ukorrekt."" src=""paste-99b7161fc274191d288c329495ab84d4569297c6.png""></div>"	Hematoxylin og eosin&nbsp;				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>Angiv hvilke komponenter der indgår i den indirekte
+immunhistokemiske metode til mærkning/farvning af et antigen i væv. Der kan
+vælges flere korrekte svar&nbsp;</div>"	Primær og sekundær antistof og farveprobe				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div><span style=""color:#EE0000"">&nbsp;</span></div>
+<div><img alt=""Et billede, der indeholder sne
+
+AI-genereret indhold kan være ukorrekt."" src=""paste-7f94480102c22bd86ba9a27426dbc259446d7195.png""></div>
+<div>Herunder ses
+et udsnit af en arterievæg. Angiv hvad pilene peger på. De peger alle på sammenlignelige
+struktur&nbsp;</div>"	Artefakter				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>Angiv hvilken
+maksimal opløsningsevne der kan opnås med et lysmirkoskop&nbsp;</div>"	0,2 mikrometer				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div><span style=""color:#EE0000"">&nbsp;</span>Angiv hvilken
+opløsningsevne der kan opnås med et elektronmikroskop på biologiske prøver&nbsp;</div>"	2-10 nanometer				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>&nbsp;</div>
+<div><img alt=""Et billede, der indeholder skitse, kunst
+
+AI-genereret indhold kan være ukorrekt."" src=""paste-1d36971b0e8b1932eeb055f85839816dfd770402.png""></div>
+<div>&nbsp;På billedet herover ses en del af en arterier
+væg, hvor elastiske fibre er farvet brun/rød. Angiv hvilken farvemetode der er
+benyttet hertil&nbsp;</div>"	Orcein				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>Vælge herunder
+det udsagn der forklar hvad tæt bindevæv er kendetegnet ved</div><div><br></div><div><div>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Et lavt antal celler og få ekstra cellulære matrix protein </div>
+<div>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Et højt antal celler og få ekstracellulære matrix proteiner</div>
+<div>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Et højt antal celler og et højt antal ekstra cellulære
+matrix proteiner</div>
+<div><span style=""color: rgb(0, 0, 0);"">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Færre antal celler og et højt antal ekstracellulære
+matrix proteiner&nbsp;</span></div></div>"	d. Færre antal celler og et højt antal ekstracellulære matrix proteiner				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<img src=""paste-2b4630843225a1cc819d720c4714a42b02bcba54.jpg""><br><div>Herover ses et billede af et udsnit af en øresputkirtlen &nbsp;farvet med HE. Angiv hvad pilene peger på&nbsp;</div>"	artefatker				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div><img src=""paste-86a0b76a03aaebbae035bfd571c6cd8ea83f4447.png""></div>
+<div>Herover ses
+et billiede af et lille udsnit af villi i tyndtarmen. Der er fravet med hematoxylin.
+En anden farvemetode er benyttet sammen med hematoxylin, der fremhæver de
+celler pilene peger på, der er farvet strækt magenta. Angiv hvilen farvemetode&nbsp;</div>"	PAS - periodsyre-schiffs farvning				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div><img src=""paste-264646520b38ab941d9e64927f279c007eda25ee.png""></div>
+<div>Angiv, ud fra
+dens form hvilken type epithelcelle der ses ud for de to pile på billiedet
+herunder fra ørespytkirtlen, fravet med HE. Det er samme type ud fra begge
+pile.&nbsp;</div>"	Cylinder epithel&nbsp;				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div><span style=""color:#EE0000;mso-no-proof:yes""><img src=""paste-7463302f5417713ba03000edafadf8a4664b99e2.png""></span><span style=""color:#EE0000""></span></div>
+<div>Herover ses et billiede af en blærevæg. Lumen af blæren ses
+til højre og pilene peger på epithelet i blæren. Hvilken type epithel er dette.</div>"	overgangsepithel				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>Angiv hvilken del af nervecellen,
+der normalt angives som værende den del af cellen der opfanger/modtager et
+signal&nbsp;</div>"	Dendrit&nbsp;				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	<div>Angiv hvilken celle der er den egentlige bindevævscelle</div>	Fibroblaster				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>Angiv hvilken af de nedstående farvemetoder der er særligt
+gode til at favre nervefibre i hjernevæv. Det kan være flere korrekte svar</div>"	Bodian og Kluver-Barrera&nbsp;				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div><img src=""paste-9e85ad09c6e746c89a46081c35692c35b3045f4f.png""></div>
+<div>På billedet ovenover ses et udsnit af en muskelvæv fravet
+med HE. Angiv hvilken af de tre typer musklatur, der ses på billiedet herover,
+baseret på dit kendskab til msukulaturens histologiske opbygning&nbsp;</div>"	Skeletmuskulatur<br><br>Har mange cellekerner som ligger ud til kanten&nbsp;&nbsp;<br>				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div><img src=""paste-86cb1c29fae83839f5f69a5a3d78675125b98206.png""></div>
+<div>På billiedet herover ses et usnit af muskelvæv farve med HE.
+Angiv hvilken af de tre typer muskulatur, der ses på billedet herover. Baseret på
+dit kendskab til muskulaturen histologiske opbygning&nbsp;</div>"	Glat muskulatur&nbsp;<br><br>lange celler&nbsp;<br>en kerne i midten&nbsp;				
+Grundlæggende	Molekylær biologi::Histologi spotprøve	"<div>Angiv hvilken af de nedstående celler, der kan betegnes som
+værende nerugilaceller. Der er flere korekkte svar:</div><div><div><span style=""color: rgb(0, 0, 0);"">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Astrocytter</span></div><span style=""color: rgb(0, 0, 0);"">
+</span><div><span style=""color: rgb(0, 0, 0);"">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Myocytter</span></div><span style=""color: rgb(0, 0, 0);"">
+</span><div><span style=""color: rgb(0, 0, 0);"">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oligodendrocytter</span></div><span style=""color: rgb(0, 0, 0);"">
+</span><div><span style=""color: rgb(0, 0, 0);"">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Erytrocytter</span></div><span style=""color: rgb(0, 0, 0);"">
+</span><div><span style=""color: rgb(0, 0, 0);"">e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Satelitceller</span></div></div>"	"a. Astrocytter -&nbsp;<span style=""background-color: rgb(255, 255, 255); color: rgb(170, 0, 0);"">Regulerer ioner og neurotransmittere, danner blod-hjerne-barrieren</span><br>c. Oligodendrocytter -<span style=""color: rgb(170, 0, 0);"">&nbsp;Danner myelin omkring axoner i CNS</span><br>e. Satelitceller -&nbsp;<span style=""color: rgb(170, 0, 0);"">Støtter nerveceller i ganglier og hjælper ved skade</span>"				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er formålet med regulering af proteiner i celler?	At styre mængden og funktionen af proteiner, hvilket er afgørende for cellefunktion, udvikling og sygdomsforebyggelse.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan kan en celle regulere proteiners aktivitet?	Ved at tænde/slukke eller aktivere/hæmme proteiner samt styre hastigheden af reaktioner.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er DNA-methylering, og hvordan påvirker det genudtryk?	En kemisk modifikation der blokerer transkriptionsfaktorers binding og rekrutterer enzymer, som lukker kromatinstrukturen → slukker gener.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad sker der ved histonacetylering?	Kromatin åbnes, og genet tændes → transkription kan ske.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er effekten af histonmethylering?	Stabil lukning af genudtryk → genet forbliver slukket.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er forskellen på eukromatin og heterokromatin?	"Eukromatin: løst pakket, aktivt.<br>
+Heterokromatin: tæt pakket, inaktivt."				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er cis-acting elements?	DNA-sekvenser der regulerer genudtryk ved at være bindingssteder for transkriptionsfaktorer.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Nævn tre typer cis-acting elements og deres funktion.	"<li><strong>Enhancer</strong>: Øger transkription</li>
+<li><strong>Silencer</strong>: Hæmmer transkription</li>
+<li><strong>Response-element</strong>: Aktiveres af signaler som hormoner og stress</li>"				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er trans-acting factors?	Proteiner der binder til cis-elementer og regulerer genudtryk ved at aktivere eller hæmme transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan påvirker trans-acting factors RNA-polymerase 2?	De kan fremme eller blokere dens adgang til DNA → påvirker transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er forskellen på cis- og trans-acting faktorer?	"<strong>Cis</strong>: DNA-sekvenser tæt på genet.<br>
+<strong>Trans</strong>: Proteiner der binder til cis-elementer og regulerer genudtryk."				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er UPE og core promoter?	"<li><strong>UPE</strong>: Upstream Promoter Element, binder TFs og aktiverer genet.</li>
+<li><strong>Core promoter</strong>: Indeholder TATA-box og er startsted for transkription.</li>"				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan reguleres genekspression?	Gennem kontrol af mængde og timing af mRNA og proteinproduktion.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er inducerbare gener?	Gener der tændes af hormonpåvirkning, stress eller signalveje.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan nedbryder celler proteiner?	"<li><strong>Ubiquitin-proteasom-systemet</strong>: Mærker og klipper proteiner.</li>
+<li><strong>Autofagi og lysosomer</strong>: Nedbryder store strukturer.</li>"				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad sker der efter nedbrydning af proteiner?	Aminosyrer kan genbruges af cellen.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er en transkriptionsfaktor (TF)?	Et protein der binder til DNA og regulerer transkription af gener.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvilke domæner findes i TFs og hvad gør de?	"<li><strong>DNA-bindende domæne</strong>: Binder specifik DNA-sekvens</li>
+<li><strong>Dimeriseringsdomæne</strong>: Stabiliserer binding</li>
+<li><strong>Regulatorisk domæne</strong>: Aktiveres af signaler</li>
+<li><strong>Aktiverings-/repressionsdomæne</strong>: Påvirker RNA-polymerase og kromatinstruktur</li>"				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er UPE og hvor findes det?	UPE (Upstream Promoter Elements) ligger opstrøms for core promoter og binder generelle transkriptionsfaktorer (TFs) som aktiverer genet.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad indeholder core promoteren?	TATA-box, Inr-sekvens og bindingssteder for RNA-polymerase II, TBP og TAF.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er histonacetylering?	En post-translationel modifikation hvor en acetylgruppe tilføjes til lysin → fjerner positiv ladning → svækker binding til DNA → åbner kromatin → øger transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad gør HDAC?	Histon deacetylase fjerner acetylgruppen → genskaber positiv ladning → lukker kromatin → hæmmer transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er histontranslokation?	Flytning, fjernelse eller omarrangering af histoner for at skabe et frit område ved promotoren → kræver ATP → tillader TFs at binde.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er epigenetik?	Ændringer i genudtryk uden ændring af DNA-sekvensen. Kan være nedarvelige, reversible og miljøinducerede.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan reguleres genudtryk epigenetisk via kromatinstruktur?	Gennem histon de-acetylering, histonmethylering og DNA-methylering → ændrer tilgængeligheden af promotorregionen.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad sker der ved histonmethylering?	Methylgruppe tilføjes til lysin/arginin → skaber bindingssted for proteiner → kondenserer kromatin → hæmmer transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er DNA-methylering?	Methylgruppe tilføjes til cytosiner i CG-sekvenser → forhindrer TF-binding → rekrutterer HDAC → lukker kromatin → hæmmer genudtryk.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er post-transkriptionel regulering?	Regulering af hvor meget protein der dannes fra mRNA → afhænger af mRNA’s stabilitet og translationseffektivitet.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvordan påvirker poly-A-halen mRNA?	"Længere hale → bedre beskyttelse og mere translation.<br>
+Kortere hale → hurtigere nedbrydning og mindre proteinproduktion."				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er post-translationel regulering?	Regulering af proteiners funktion og levetid efter de er dannet → fx via fosforylering eller ubiquitinering.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er ubiquitinering?	Ubiquitin påsættes på lysin/N-terminal → markerer protein til nedbrydning i proteasomet.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er fosforylering og dens effekt?	Fosfatgruppe tilføjes til serin, threonin eller tyrosin → ændrer proteinets struktur, ladning og funktion → kan aktivere/inaktivere protein.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er den primære regulering af proteinudtryk?	Initiering af transkription → RNA-polymerase II’s adgang til DNA bestemmer mængden af mRNA og dermed protein.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er en enhancer?	DNA-sekvens hvor aktivatorer binder → øger transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er en silencer?	DNA-sekvens hvor repressorer binder → hæmmer transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er et response element?	DNA-sekvens der aktiveres af miljøsignaler som hormoner, stress eller næringsstoffer → regulerer genudtryk.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er cis-acting elements?	DNA-sekvenser (fx enhancere/silencere) der regulerer gener på samme DNA-streng.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er trans-acting factors?	Proteiner (typisk TFs) der binder til cis-elementer og regulerer genudtryk.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad er trans-acting elements?	Gener der koder for trans-acting faktorer og kan ligge på en anden DNA-streng end det gen de regulerer.				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	Hvilken funktion har en kondensor på lysmirkoskopet?&nbsp;	????				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	Man instiller et lysmikroskop efter dette princip?	Köhlers princip				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	Denne mikropskopiteknik bruges til at afbillede immunhistokemi preparater ?	Fluorescens&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	Denne type mikroskopi er specielt velegnet til ufarvede cellulære struktur ?	Fasekontrast&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	Farvning ved brug af radioaktive isotoper, e.g. tritium der indbygges i DNA under celledeling?	Autoradiografi				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Kationisk (basofil) farve, der binder til anioniske (acidofile) strukturer i vævet –&nbsp;</span><span style=""color: rgb(33, 33, 33);"">derfor farver dette nucleus blå, da denne består af nukleinsyrer.</span>"	Hæmatoksylin&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Anionisk (syre) (acidofil) farve, der binder til kationiske (basiske) strukturer i vævet – dermed farves cytoplasma lyserødt.</span>"	Eosin				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Her er en høj koncentration af RNA og proteiner og her produceres ribosomer</span>"	Nucleolus&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	Denne afgrænser cellen&nbsp;	Cellemembran&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Her foregår syntese af fosforlipider og kolesterol</span>"	Glat endoplasmatisk recticulum&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Består af RNA og proteiner og bringer mRNA og tRNA sammen</span>"	Ribosomer				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Her foregår pakning af proteiner til golgiapparatet</span>"	Ru endoplasmatisk reticulum				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<img src=""paste-8eefccf7c24011782f8c109aa57810e32472fa70.jpg"">"	Mitrokondrie&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<img src=""paste-59fa4c1b33487cae886fff59ce67157c1295f257.jpg"">"	Glogiapparat&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<img src=""paste-d4ef87c3ed5ea30b4cd5e78586af0f9f32cd814f.jpg"">"	Cytoskelet				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Optag af den omkringliggende ekstracellulære væske</span>"	Pinocytose				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	<table><tbody><tr><td>Udveksling af N2 og O2 mellem cellen og det omgivende miljø</td><td></td></tr></tbody></table><br>	Simpel diffusion&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	Optage af hele bakterier	Fagocytose				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Beskriv i denne sammenhæng kort (ca 5 linjer) hvad der forstås med sekundær aktiv transport og hvordan det foregår.</span>"	Sekundær aktiv transport er en mekanisme, hvor cellen transporterer stoffer mod deres koncentrationsgradient uden direkte brug af ATP. I stedet udnyttes energien fra en iongradient, typisk natrium (Na⁺), som er skabt af primær aktiv transport. Transportproteiner i membranen kobler bevægelsen af Na⁺ med transporten af et andet molekyle, f.eks. . glukose. Dette kan ske som symport (samme retning) eller antiport (modsat retning). Processen er vigtig for optag af næringsstoffer og ioner i celler.				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">DNA er udgangspunktet for proteiner og vores arvemasse. Hvilke af nedenstående komponenter består DNA-molekylet af?</span>"	Nitrogenholdig base<br>Deoxyribose<br>Fosfatgruppe				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">DNA-molekylet er dobbeltstrenget. Hvilken type kemisk forbindelse binder de 2 DNA-strenge sammen?</span>"	Hydrogenbinding&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	<div><div>Hvilke af følgende udsagn beskriver DNA-replikation?</div></div><div><div><div>a.<div>Replikationen kræver kun én type enzym, kaldet DNA-polymerase.</div></div></div><div><div>b.<div>DNA-strengene separeres ved hjælp af enzymet helicase, som bryder de hydrogenbindinger, der binder baseparene sammen.</div></div></div><div><div>c.<div>DNA-replikation finder sted under anafase i mitose.</div></div></div><div><div>d.<div>DNA-replikation er semi-konservativ, hvilket betyder, at hvert ny DNA-molekyle består af en gammel og en ny streng.</div></div></div><div><div>e.<div>Replikationen foregår kun i cellekernen under meiosens telofase.</div></div></div></div>	B og D				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<div>Vores individuelle DNA molekyler kan kondenseres til kromosomer under celledelingen. Match begreberne med figuren:<br></div><div><img alt="""" src=""image.png""><img src=""paste-a4597a1c8982cd52930cdeb245bc4da2eda60634.jpg""></div>"	A. Homologe Kromsomer<br>B. Centromer<br>C. Replikations<br>D. Homologe Kromosomer&nbsp;<br>E. Søsterkromatider<br>F. Søsterkromatider&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Hvordan ser den humane karyotype ud?</span>"	45, XY og 46, XX				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<div><span style=""color: rgb(33, 33, 33);"">Hvor mange datterceller skabes ved meiosen, og hvad er deres karyotype?</span><br></div>"	4 datterceller, hver med 23 kromosmer&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	<div><div>Marker alle de korrekte udsagn om mitose og meiose:</div></div><div><div><div>a.<div>Mitose resulterer i to identiske datterceller, mens meiose resulterer i fire genetisk forskellige datterceller.</div></div></div><div><div>b.<div>Mitose medfører en reduktion af kromosomtallet, mens meiose bevarer kromosomtallet.</div></div></div><div><div>c.<div>I mitose opstår der genetisk variation, mens meiose ikke skaber genetisk variation.</div></div></div><div><div>d.<div>Meiose forekommer kun i somatiske celler, mens mitose forekommer i kønsceller.</div></div></div><div><div>e.<div>Meiose involverer to celledelinger, mens mitose kun involverer én celledeling.</div></div></div></div>	A og E				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">I hvilken proces kan der ske rekombination?</span>"	Første meiotiske celledeling&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<div>Kromosomafvigelser og DNA-mutationer kan forekomme under celledelingerne og medføre forskellige sygdomme.<br></div><div>Hvad er den mest sandsynlige arvegang?</div><div><img src=""paste-b9abe4b26edf809a2e18da38e5028b922dfbe087.jpg""><br></div>"	Autosomal recessiv&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Hvad er de forventede genotypefrekvenser for et locus med 2 alleler i en population, der er i Hardy-Weinberg ligevægt?</span>"	"<span style=""color: rgb(33, 33, 33);"">p² + 2pq + q² = 1, hvor p² er frekvensen af homozygote for den dominante allel, og q² er frekvensen af homozygote for den recessive allel, og 2pq er frekvensen af heterozygoter.</span>"				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	<div><div>Hvad beskriver forskellen mellem exons, introns og intergenic regioner i DNA?</div></div>	Exons koder for proteiner, introns er ikke-kodende sekvenser indenfor gener, og intergenic regioner er DNA mellem gener.&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Hvilken type molekyle er en transkriptionsfaktor?</span>"	Protein				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Beskriv kort (ca 5 linjer) 1) hvad transkriptionsfaktorer er, og 2) hvilken rolle de har under transkriptionen.</span>"	"Transkriptionsfaktorer er proteiner, der binder til specifikke DNA-sekvenser og regulerer genekspression. De fungerer som molekylære ""tænd/sluk-knapper"", der styrer, om et gen skal transkriberes til mRNA. Under transkriptionen hjælper de med at rekruttere RNA-polymerase til promotorregionen og kan enten aktivere eller hæmme transkriptionen. De sikrer, at gener udtrykkes på det rette tidspunkt, i den rette celle og i den rette mængde. Dermed spiller de en central rolle i cellefunktion og udvikling."				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Et centralt trin i det centrale dogme, er transkriptionen af mRNA fra DNA. Hvad hedder det enzym som syntetiserer mRNA fra DNA under transkriptionen (husk nummeret også)?</span>"	RNA-polymerase 2				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Hvad afbryder transkriptionen?</span>"	"<span style=""color: rgb(33, 33, 33);"">Konserverede (specifikke) nukleotid sekvenser som signalerer til en endonuklease.</span>"				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Hvilke tre trin undergår pre-mRNA for at blive til modent mRNA?</span>"	5'-Capping&nbsp;<br>RNA Splejsning<br>Polyadenylering&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Hvilken aminosyre er den første til at blive translateret/indlejret i translationen og dermed sidde i den N-terminale del af det nysyntetiserede peptid/protein?</span>"	Methionin (Met)				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Opskriv det mRNA-kodon som anti-kodonet genkender i rækkefølgen 1,2,3 som på figuren (angiv tre bogstaver):<br></span><br><span style=""color: rgb(33, 33, 33);"">Hvad er læseretningen på mRNA-kodonet du har angivet i 1,2,3 retning?</span>"	1. AUC<br>2. 5' -XXX-3'				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<img src=""paste-db5216fb6c9b947c66ccd6e4fc2a22b9a96b75e9.jpg"">"	Lys - K				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<img src=""paste-55bca1961134585e66d4e6f235245f3cf7d444da.jpg"">"	Cys				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<img src=""paste-fa0b79afcc21ca24c8751143fc75839fdb49d1cd.jpg"">"	Met				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<img src=""paste-e0e8cdca6920af26d13f193951a2654e56e1c4aa.jpg"">"	His				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Angiv det fulde navn på aminosyren som kan danne svovlbroer:</span>"	??????				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Vælg hvilken aminosyre-substitution der medfører den&nbsp;</span><strong><u>mindste</u></strong><span style=""color: rgb(33, 33, 33);"">&nbsp;ændring i peptidets overordnede ladning, ift den ikke-muterede udgave? Aminosyrerne er angivet på enkelt-bogstav format.</span>"	"<span style=""color: rgb(33, 33, 33);"">Aminosyren L ændres til A</span>"				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Type af molekylære bånd som holder den primære protein struktur sammen</span>"	?????				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Dette forstås ved den primære protein struktur</span>"	Rækkefølgen af aminosyrer				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Type af molekylære bånd som holder den sekundære protein struktur sammen</span>"	????				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Type af molekylær bånd som en svovlbro er udgjort af</span>"	Kovalent bindinger				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Den sekundære protein struktur udgøres af disse</span>"	?????				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	<div><div>Mængden af syntetiseret protein og proteiners aktivitet reguleres på både DNA, mRNA og protein niveauet. Hvilke af følgende udsagn beskriver epigenetik?</div></div><div><div><div><br></div><div>a.<div>DNA-sekvensen ændres ved nukleotidsubstitutioner.</div></div></div><div><div>b.<div>Ændringerne er altid irreversible (permanente).</div></div></div><div><div>c.<div>Kan induceres af miljø-faktorer.</div></div></div><div><div>d.<div>Epigenetiske ændringer er nedarvelige.</div></div></div></div>	C og D				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Hvilken aminosyre på histonerne acetyleres hyppigt?</span>"	Lys				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	"<span style=""color: rgb(33, 33, 33);"">Beskriv hvad effekten af histone acetylering typisk er for et givent gen der skal transkriberes (transkriberes&nbsp;der mere eller mindre mRNA, eller er der ingen effekt). Forklar hvorfor.</span>"	Histonacetylering øger typisk transkriptionen af et gen. Ved at acetylere lysinrester på histonernes haler neutraliseres deres positive ladning, hvilket svækker bindingen til det negativt ladede DNA. Dette åbner kromatinstrukturen og gør DNA’et mere tilgængeligt for transkriptionsfaktorer og RNA-polymerase, hvilket resulterer i øget mRNA-syntese.				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	<div><div>Et af de tre kimlag er endoderm. Hvilke tre strukturer stammer fra endodermen?</div></div>	Lunger<br>Lever<br>Det inderste af tarmen&nbsp;				
+Grundlæggende	Molekylær biologi::Eksamens spørgsmål	<div><div>Hvilke 3 af følgende udsagn om embryologi den anden uge efter befrugtningen er korrekte?</div></div><div><div><div><div>a. I løbet af uge 2 differentierer embryoblast til epiblast og hypoblast</div></div></div><div><br></div><div><div><div>b. Cytotrofoblastcellerne danner barrieren mellem moderkagen og livmoderen</div></div></div><div><div><div><br></div><div>c. Cytotrofoblastcellerne består af enkeltkernede celler, der deler sig</div></div></div><div><div><div><br></div><div>d. Syncytiotrofoblasten vokser ved at cytotrofoblastceller deler sig og smelter sammen med syncytiotrofoblasten</div></div></div><div><div><div><br></div><div>e. De primære villi består af en kerne af syncytiotrofoblast omgivet af cytotrofoblastceller</div></div></div><div><div><br></div><div>f. Under udviklingen af moderkagen dannes lacunae i livmoderens slimhinde, der fyldes af fosterets blod</div></div><div><div><div><br></div><div>g. Amnionhulen fores af hypoblastceller</div></div></div></div>	A, C og D				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad kaldes molekylerne der omdannes i en enzymreaktion?	Substrater&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	Hvad kaldes molekylerne der dannes i en enzymreaktion?	Produkter&nbsp;				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"Hvilken enzymklasse katalyserer redoxreaktioner?<div>
+<strong></strong></div>"	"<div><p>Oxidoreduktaser (fx alkoholdehydrogenase).<br></p>
+<strong></strong></div>"				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvilken enzymklasse overfører funktionelle grupper?<br>
+<strong></strong></div>"	Transferaser (fx hexokinase).				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvilken enzymklasse spalter bindinger med vand?<br>
+<strong></strong></div>"	Hydrolaser (fx proteaser).				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvilken enzymklasse spalter bindinger uden vand/redox?<br>
+<strong></strong></div>"	Lysaser (fx aldolase).				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvilken enzymklasse omlejrer atomer i samme molekyle?<br>
+<strong></strong></div>"	Isomeraser (fx fosfoglucose-isomerase).				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvilken enzymklasse danner nye bindinger med energiforbrug?<br>
+<strong></strong></div>"	Ligaser (fx DNA-ligase).				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvilken enzymklasse transporterer molekyler over membraner?<br>
+<strong></strong></div>"	Translocaser.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div><div>Høj Km betyder...?<br>
+<strong></strong></div>
+<strong></strong></div>"	Lav affinitet – substratet binder svagt				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Lav Km betyder...?<br>
+<strong></strong></div>"	Høj affinitet – substratet binder stærkt				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er Kcat?<br>
+<strong></strong></div>"	Omsætningstallet – antal substrater omdannet pr. enzym pr. sekund.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er fosforylering?<br>
+<strong></strong></div>"	Tilsætning af fosfatgruppe til et protein → ændret funktion.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvilken enzymgruppe udfører fosforylering?<br>
+<strong></strong></div>"	Kinaser.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er ubiquitinylering?<br>
+<strong></strong></div>"	Binding af ubiquitin til et protein → ændret funktion eller nedbrydning.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad gør proteasomet?<br>
+<strong></strong></div>"	Nedbryder ubiquitinylerede proteiner → regulerer proteinaktivitet.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Hvad er epigenetik?<br>
+<strong></strong></div>"	Arvelige ændringer i genekspression uden ændring af DNA-sekvens.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Eukromatin vs. Heterokromatin?<br>
+<strong></strong></div>"	Eukromatin = aktivt, løst pakket; Heterokromatin = inaktivt, tæt pakket.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Effekt af histon-acetylering?<br>
+<strong></strong></div>"	Løsere kromatin → øget transkription.				
+Grundlæggende	Molekylær biologi::Proteiner og biologiske funktioner	"<div>Effekt af DNA-methylering?<br>
+<strong></strong></div>"	Hæmmer transkription ved at blokere adgang til genet.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvor sker befrugtningen?<br>
+<strong></strong></div>"	I ampulla-delen af æggelederen.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad er capacitation?<br>
+<strong></strong></div>"	Modning af sædcellen efter ejakulation, så den kan befrugte ægget.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad er acrosomal reaktion?<br>
+<strong></strong></div>"	Frigivelse af enzymer fra sædcellen, så den kan trænge ind i ægget.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad er formålet med kløvning?<br>
+<strong></strong></div>"	At øge celleantal uden vækst og forberede dannelsen af morula.				
+Grundlæggende	Molekylær biologi::Embryologi	"<strong><div></div></strong>&nbsp;Hvad er compaction?<br>
+<strong></strong>"	Cellerne i morulaen bliver flade og tætforbundne med polaritet				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvilke tre dele består blastocysten af?<br>
+<strong></strong></div>"	Trofoblast, embryoblast og blastocele.<strong><div></div></strong>				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad bliver trofoblasten til?<br>
+<strong></strong></div>"	Cytotrofoblast og syncytiotrofoblast → placenta.				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad bliver embryoblasten til?	Epiblast og hypoblast → bilaminær kimskive.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvornår sker implantation?<br>
+<strong></strong></div>"	Dag 6–7 efter befrugtning.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvornår starter gastrulation?<br>
+<strong></strong></div>"	Dag 15–16.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad danner epiblastcellerne under gastrulation?<br>
+<strong></strong></div>"	Endoderm (nederst), mesoderm (midt), ektoderm (øverst).				
+Grundlæggende	Molekylær biologi::Embryologi	"<strong><div></div></strong>&nbsp;Hvad er primitive streak?<br>
+<strong></strong>"	Midtlinje i epiblasten hvor celler bevæger sig ind.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad er notochordens funktion?<br>
+<strong></strong></div>"	Kropsakse og signalcenter for neuraludvikling.				
+Grundlæggende	Molekylær biologi::Embryologi	"<strong><div></div></strong>&nbsp;Hvad danner neuralpladen?<br>
+<strong></strong>"	Fortykket ektoderm over notochorden.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>&nbsp;Hvornår lukker neuralrøret?<br>
+<strong></strong></div>"	Starter i midten på dag 21<br>Crainlat på dag 24&nbsp;<br>caudalt på dag 26&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad er cephalocaudal foldning?	Hoved og hale bøjer fremad → C-formet embryo.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad er lateral foldning?<br>
+<strong></strong></div>"	Siderne bøjer ind og lukker kroppen → tube-in-a-tube.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad dannes af endodermen under foldning?<br>
+<strong></strong></div>"	Det primitive tarmrør.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad danner ektodermen?<br>
+<strong></strong></div>"	Hud, nervesystem, øjne, sensoriske organer.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>&nbsp;Hvad danner mesodermen?<br>
+<strong></strong></div>"	Muskler, knogler, kar, nyrer, hjerte.				
+Grundlæggende	Molekylær biologi::Embryologi	"<div>Hvad danner endodermen?<br>
+<strong></strong></div>"	Tarm, lever, pancreas, lunger, epitel i organer				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad bliver epiblast til ?	Ectoderm&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan udvikles endoderm ?	Ved at epiblast celler svømmer ned gennem den primitive streak og ned og skubber hypoblast laget væk.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan udvilkes mesoderm?	Extra epiblast celler svømmer ned genne den primitive og ligger sig mellem den ectoderm og endoderme lag, dette bliver til det mesoderme lag.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan udvikles notochorden ?	Epiblast celler svømmer ned gennem den primitive node og op af cranialt hvor den bag det mesoderme lag udvilker en tube som er notochorden.				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan dannes neuralrøret ?	En fortykket ektoderm danner en fue ved at sidderne danner neuralfolder ved at de bevæger sig mod hinanden, på kanten sidder neuralkamceller.&nbsp;<br>Når folderne når hinanden samles de til neuralrøret og den presses ned under den ectoderme lag.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad kan det mesoderme lag inddeles i?	Paraksial<br>Intermediær<br>Lateral<br>- Somatisk lag&nbsp;<br>- Splanchnisk&nbsp;<br>				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad invaderer blastocysten?	Endometriet&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan invaderer blastocyten endometriet?	Blastocysten invaderer endometriet ved at sætte sig løst fast gennem mikrovilli på pinopoder.&nbsp;<br>For at sikre en stabil tilknytning skal transmembraner fra trofoblasten binde sig til seletiner som sidder på endometriet.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan dannes de primær villi?	De primære villi dannes når celler fra cytotroblasten vokser gennem&nbsp; syncytiotrofoblasten og danner fingerlignede udløbere. De skaber en skal rundt om det intervilløse rum.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan dannes de sekundær villi?	Sekundære villi dannes ved at det ekstraembryonisk mesoderm vokser ind i de primære villi og danner en mesodermal kerne.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvordan dannes tertiære villi?	Tertiære villi dannes når føtale blodkar dannes inde i den mesodermale kerne i de sekundære villi.				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad sker der når blastocysten har indvaderet endometriet ?	Når blastocysten har invaderet endometriet begynder cytotrofoblastens ydre celler at nedbryde og smelte samme, dette danner syncytiotrofoblasten.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad funktion har syncytiotrofoblasten?	At skabe kontakt med morens blodforsyning og frigive hC.&nbsp;<br>Den er med til at danne lakune.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad hCH og hvad er den funktion ?	hCH (human choriongonadotropin) er et hormon som produceres af syncytiotrofoblasten kort efter implantation.&nbsp;<br>Dette opretholdes af corupus luteum (det gule legme) som forsætter med at producerer progesteron.&nbsp;<br>hcg kan måles i blod og urin.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad er progesterons funktion?	Progesteron opertholder endometriet og gør det modtageligt for implantation.&nbsp;<br>Det er også med til at staviliserer gravidtteten og stimulerer udviklingen af placenta.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad er blastocele og hvordan dannes det?	Blastocele er et væskefyldt hulrum i blastocysten. Dette danens ved at troblastceller pumper væske ind mellem cellerne.<br>Dette adskiller den indre cellemasse fra trofoblasten.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad er chorionhulen og hvordan opstår den?	Chorionhulen (ekstraembryonisk coelom) er et hulrum som omgiver den bilaminære kimskive.&nbsp;<br>Den optsår når der dannes spalter i den ekstraembryoniske mesoderem.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad sker med zona pellucida før implantation, og hvorfor er det vigtigt?	Zona pellucida nedbrydes lige før implantation, dette er vigtigt da det tillader blastocysten at invaderer direkte ind i endometriet.&nbsp;<br>Uden dette sker vil blastocysten ikke kunne sættes sig fast.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad notochorden og hvilken funktion har den?	Notochorden er en midtlinjestruktur som dannes af mesodermen under gastrulation.&nbsp;<br>Den fungerer som en signalcenter og hjælper med dannelsen af neuralrøret.&nbsp;				
+Grundlæggende	Molekylær biologi::Embryologi	Hvad bliver nerualkamceller til?	Neuralkamceller migrerer fra kanten af neuralrøret og er med til at danne&nbsp;<br>- Perifere never<br>- Schwannske celler<br>- Melanocytter				
+Grundlæggende	Molekylær biologi::Embryologi	Hvilken del af mesodermen danner somitter?	Paraksial mesoderm danner somitter.&nbsp;				
